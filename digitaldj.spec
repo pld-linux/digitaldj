@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
-Summary:	Digitaldj, an SQL-based mp3-player
-Summary(pl):	Digitaldj - odtwarzacz mp3 oparty o SQL
+Summary:	Digitaldj, an SQL-based MP3-player
+Summary(pl):	Digitaldj - odtwarzacz MP3 oparty o SQL
 Name:		digitaldj
 Version:	0.7.3
 Release:	0.1
@@ -23,18 +23,18 @@ Obsoletes:	Digitaldj
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Digitaldj is an SQL-based mp3-player frontend designed for people who
-want to create an mp3 version of their CD collection. It is designed
+Digitaldj is an SQL-based MP3-player frontend designed for people who
+want to create an MP3 version of their CD collection. It is designed
 to work with the Grip ripping/encoding application (but can be used
-separately). When Grip encodes mp3 files, it will place all of the
+separately). When Grip encodes MP3 files, it will place all of the
 song information into an SQL database. Digitaldj can then use this
 information to create playlists based on a number of criteria.
 
 %description -l pl
-Digitaldj jest frontendem do odtwarzania mp3 opartym o bazê SQL dla
-chc±cych zrobiæ wersjê mp3 swojej kolekcji p³yt kompaktowych. Zosta³
+Digitaldj jest frontendem do odtwarzania MP3 opartym o bazê SQL dla
+chc±cych zrobiæ wersjê MP3 swojej kolekcji p³yt kompaktowych. Zosta³
 zaprojektowany do pracy z programem ripuj±co-koduj±cym Grip (ale mo¿e
-byæ u¿ywany bez niego). Grip po zakodowaniu plików mp3 umieszcza
+byæ u¿ywany bez niego). Grip po zakodowaniu plików MP3 umieszcza
 informacje o utworach w bazie SQL. Digitaldj mo¿e u¿ywaæ tych
 informacji do robienia playlist opartych o ró¿ne kryteria.
 
