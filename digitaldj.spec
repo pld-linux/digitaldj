@@ -13,6 +13,7 @@ URL:		http://nostatic.org/ddj/
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake
 BuildRequires:	gdk-pixbuf-devel
+BuildRequires:	gnome-libs-devel
 BuildRequires:	libghttp-devel
 BuildRequires:	libtool
 BuildRequires:	lirc-devel
