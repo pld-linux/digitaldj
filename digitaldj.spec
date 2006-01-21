@@ -8,7 +8,6 @@ License:	GPL
 Group:		Applications/Sound
 Source0:	http://nostatic.org/ddj/%{name}-%{version}.tar.gz
 # Source0-md5:	187c7b2a4d9f661910c26b42b91ecf21
-Icon:		DigitalDJ.gif
 URL:		http://nostatic.org/ddj/
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake
