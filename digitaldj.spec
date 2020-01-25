@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Digitaldj, an SQL-based MP3-player
 Summary(pl.UTF-8):	Digitaldj - odtwarzacz MP3 oparty o SQL
 Name:		digitaldj
